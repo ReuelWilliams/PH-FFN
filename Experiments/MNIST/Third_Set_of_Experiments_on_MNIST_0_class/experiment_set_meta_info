@@ -1,0 +1,12 @@
+Number of Samples: 100
+Max Persistence:0.5
+Max Edge Length: 10
+Model Info: Input Dimension: 15
+Output Dimension: 2
+Hidden Dimensions: [1000, 1000, 1000, 1000, 1000]
+Activation Function: relu
+Sampling Info:sample_from_n_sphere_label_left_right
+Accuracy: 97.6
+Number of Experiments: 100
+Max Persistence Dimension: 3
+ model_file: Models/MNIST/third_complete_mnist_model.pth
